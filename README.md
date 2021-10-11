@@ -1,7 +1,7 @@
 # KamerEasyTravel
 
 Is a B2B platform I developed using Node.js now I am moving it to Spring boot 2 (with Java 17) and React.js.
-The complete application is build using a micro-service Architecture!
+The complete application is build using a micro-service Architecture! [See Architecture: file "Architekture_Overview"]
 
 ## Status: Still on Development (not done yet). But both projects (Node.js and Java Spring boot will remain private).
 
